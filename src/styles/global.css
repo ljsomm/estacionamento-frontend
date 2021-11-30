@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Century';
+    src: url('../assets/fonts/century-gothic.ttf');
+}
+
+:root{
+    --main-color: #16D0EE;
+}
+
+*{
+    margin: 0;
+    font-family: 'Century';
+}
+
+main{
+    height: 100vh;
+    width: 100vw;
+}
+
+button, input{
+    font-size: 20px;
+}

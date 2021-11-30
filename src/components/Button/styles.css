@@ -1,0 +1,22 @@
+button{
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-sign{
+    background-color: white;
+    color: var(--main-color);
+    font-weight: bold;
+    width: 100%;
+    border-radius: 5px;
+    border: 2px solid white;
+    transition: 0.25s;
+    margin: 5px 0px 5px 0px;
+    margin-top: 40px;
+}
+
+.btn-sign:hover{
+    background-color: transparent;
+    color: white;
+}
